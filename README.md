@@ -1,9 +1,5 @@
 # 🏁 Entrega - Cadastro de pessoas
 
-Para começar faça clone deste [repositório](https://classroom.github.com/a/IHzmQUQf)
-
-Nesta entrega, você já receberá o html e o css pronto. Sua tarefa é:
-
 - Criar uma classe **Pessoa** que receberá as mesmas propriedades que o usuário deve preencher no formulário.
 - criar um novo usuário utilizando a classe **Pessoa** e adicioná-lo na lista ao lado
 - Criar um método na classe que filtre os usuários pelo tipo de **cargo**. Caso o filtro seja **todos**, deverá renderizar todos os usuários.
